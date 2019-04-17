@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 # mfageria
 <p>&nbsp;</p>
 
@@ -18,3 +20,4 @@
 </body>
 
 <hr />
+</html>
