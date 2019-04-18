@@ -11,7 +11,7 @@
 <p>Hi my name is Maia, and I am a freshman at the University of Texas at Austin! I am an unspecified business major but am thinking about going into finance or accounting. I have a dog, and my favorite food is tacos. <br /><br /></p>
 
 <h1 style="text-align: center;">My Favorite Website</h1>
-<p style="text-align: center;"><a href="https://www.buzzfeed.com/html/">Click Here</a> to go to my favorite site</p>
+<p style="text-align: center;"><a href="https://www.buzzfeed.com/">Click Here</a> to go to my favorite site</p>
 
 <body bgcolor = "Blue">
 
