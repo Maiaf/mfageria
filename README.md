@@ -15,7 +15,7 @@
 <h1 style="text-align: center;">My Favorite Website</h1>
 <p style="text-align: center;"><a href="https://www.buzzfeed.com/">Click Here</a> to go to my favorite site</p>
 
-<body bgcolor ="AliceBlue">
+<body bgcolor="blue">
 
 </body>
 
